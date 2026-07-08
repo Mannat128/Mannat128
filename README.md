@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=320&section=header&text=Mannat%20Kaur&fontSize=95&animation=twinkling&fontAlignY=38&fontColor=ffffff&desc=B.Tech%20CSE%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=52&descAlign=50" />
+  <img src="https://readme-typing-svg-three-iota-93.vercel.app/api?font=Fira%20Code&section=header&text=Mannat%20Kaur&fontSize=95&animation=twinkling&fontAlignY=38&fontColor=ffffff&desc=B.Tech%20CSE&descAlignY=52&descAlign=50" />
 </div>
 
 <div align="center">
@@ -159,15 +159,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mannat128&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mannat128&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&bg_color=1A1A2E&title_color=6B46C1&text_color=FFFFFF&icon_color=9D4EDD"/>
   
   <br/><br/>
   
-  <img src="https://streak-stats.demolab.com/?user=Mannat128&theme=nightowl&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mannat128&theme=nightowl&hide_border=false&background=1A1A2E&stroke=6B46C1&ring=9D4EDD&fire=FF6B6B&currStreakLabel=7B2CBF"/>
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannat128&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannat128&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=1A1A2E&title_color=6B46C1&text_color=FFFFFF&icon_color=9D4EDD"/>
 </div>
 
 ---
@@ -183,18 +183,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api?username=Mannat128&theme=react-dark&hide_border=true"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mannat128/github-snake/svg/snake.svg" alt="snake" />
-  
-  <br/><br/>
-  <sub><i>GitHub contribution graph converted to snake animation</i></sub>
+  <img src="https://github-readme-activity-graph.vercel.app/api?username=Mannat128&theme=react-dark&hide_border=true&bg_color=1A1A2E&color=6B46C1&area=true"/>
 </div>
 
 ---
@@ -258,13 +247,9 @@ open_to:
   
   <br/><br/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=150&section=footer&text=Thanks_for_Visiting_🙏&fontSize=70&animation=twinkling&fontAlignY=50&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.vercel.app/api?font=Fira%20Code&section=footer&text=Thanks_for_Visiting&fontSize=70&animation=twinkling&fontAlignY=50&fontColor=ffffff" />
   
   <br/><br/>
   
   <img src="https://komarev.com/ghpvc/?username=Mannat128&icon=0&color=0&theme=dark" />
-  
-  <br/><br/>
-  
-  <sub>Proudly crafted with precision & passion</sub>
 </div>
